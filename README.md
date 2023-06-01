@@ -4,7 +4,7 @@ Embracing opportunities to explore diverse technologies and continuously expand 
 
 
 <div id="header" align="center" size="500px">
-  <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="290" height="280"/>
+  <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="280" height="275"/>
 </div>
 
 
